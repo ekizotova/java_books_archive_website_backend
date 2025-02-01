@@ -1,4 +1,4 @@
-# PROJECT (SERVER PART).
+# PROJECT - SPRING BOOT (SERVER PART).
 
 ##### *Archive-type website for books (following the information of where you can buy them or who is the publisher etc.).*
 
