@@ -1,5 +1,7 @@
 # PROJECT - SPRING BOOT (SERVER PART).
 
+# CLIENT FRONTEND PART is https://github.com/ekizotova/react_books_archive_website_frontend
+
 ##### *Archive-type website for books (following the information of where you can buy them or who is the publisher etc.).*
 
 ### Relations and objects model
